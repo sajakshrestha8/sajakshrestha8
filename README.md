@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sajak shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajak shrestha" height="30" width="40" /></a>
-<a href="https://fb.com/sajak shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajak shrestha" height="30" width="40" /></a>
-<a href="https://instagram.com/sajak shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajak shrestha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sajak shrestha](https://www.linkedin.com/in/sajak-shrestha-0a66a529a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajak shrestha" height="30" width="40" /></a>
+<a href="[https://fb.com/sajak shrestha](https://www.facebook.com/sajak.shrestha.167)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajak shrestha" height="30" width="40" /></a>
+<a href=["https://instagram.com/sajak shrestha](https://www.instagram.com/sajak_shrestha/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajak shrestha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sajak shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajak shrestha" height="30" width="40" /></a>
 <a href="https://discord.gg/sak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sak" height="30" width="40" /></a>
 </p>
