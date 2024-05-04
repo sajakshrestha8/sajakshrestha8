@@ -1,5 +1,3 @@
-<b>Welcome to my Github Account</b>
-
 <h1 align="center">Hi 👋, I'm Sajak Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
