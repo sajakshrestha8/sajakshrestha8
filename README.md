@@ -47,9 +47,13 @@ Analyzed customer buying patterns using association rules and visualized sales d
 - **DevOps**: Exploring CI/CD pipelines for smoother deployment
 
 ## 📫 Connect with me
-- **GitHub**: [Sajak Shrestha](https://github.com/DesmondSanctity)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sajak-shrestha/)
-- **Email**: sajak.shrestha@example.com
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DesmondSanctity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajak-shrestha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajak.shrestha@example.com)
+
+</div>
 
 
 ## 📜 Certifications & Achievements
