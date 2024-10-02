@@ -30,7 +30,7 @@ A MERN stack developer!!
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Current Projects
 
 ### 🔐 OTP Verification System
 A React-based OTP verification system with manual and clipboard input support. Developed with an Express.js backend to handle user verification.
@@ -46,13 +46,11 @@ Analyzed customer buying patterns using association rules and visualized sales d
 - **Advanced MERN Stack**: Diving deeper into MongoDB and advanced backend development
 - **DevOps**: Exploring CI/CD pipelines for smoother deployment
 
-## 📫 How to Reach Me
+## 📫 Connect with me
 - **GitHub**: [Sajak Shrestha](https://github.com/DesmondSanctity)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sajak-shrestha/)
 - **Email**: sajak.shrestha@example.com
 
-## 💡 Fun Fact
-I love experimenting with Bash scripts and have created a random password generator and various automation tools for daily tasks. I’m always eager to dive into new technologies and contribute to exciting projects!
 
 ## 📜 Certifications & Achievements
 - Completed 3 months of MERN stack training.
