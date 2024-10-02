@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Sajak Shrestha</h1>
-<h3 align="center">A passionate software developer from Nepal</h3>
+# Hi, I'm Sajak Shrestha 👋
 
+I'm a passionate software developer and a MERN stack enthusiast currently studying in my 7th semester at KCC College. With hands-on experience in full-stack development, I enjoy building web applications that solve real-world problems. Here's a little about me and what I love working on!
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sajak.shrestha.167) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajak-shrestha-0a66a529a/)
+## 🔧 Technologies & Tools
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+### Frontend
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: React.js, Next.js
+- **Styling**: Tailwind CSS, Bootstrap
 
+### Backend
+- **Languages**: Node.js, Python
+- **Frameworks**: Express.js, Flask
+- **Databases**: MySQL, MongoDB
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Other Tools
+- **Version Control**: Git, GitHub
+- **API Development**: REST APIs, Swagger for API Documentation
+- **Data Analysis**: Pandas, Apriori Algorithm, ARIMA Models
+- **Testing & Deployment**: Postman, Vercel
 
+## 🚀 Projects
 
+### 🔐 OTP Verification System
+A React-based OTP verification system with manual and clipboard input support. Developed with an Express.js backend to handle user verification.
+
+### 🛒 Grocery Management System
+A Python Flask project that handles product management, customer transactions, and employee records. Integrated Apriori algorithm for product recommendation and sales analysis.
+
+### 💧 Real-Time Water Level Monitoring System
+A Node.js backend with a React frontend that logs and monitors real-time water levels through SMS alerts.
+
+### 📊 Grocery Market Analysis
+Analyzed customer buying patterns using association rules and visualized sales data using Python Flask.
+
+## 🌱 Currently Learning
+- **TypeScript**: Strengthening my Next.js projects
+- **Advanced MERN Stack**: Diving deeper into MongoDB and advanced backend development
+- **DevOps**: Exploring CI/CD pipelines for smoother deployment
+
+## 📫 How to Reach Me
+- **GitHub**: [Sajak Shrestha](https://github.com/DesmondSanctity)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sajak-shrestha/)
+- **Email**: sajak.shrestha@example.com
+
+## 💡 Fun Fact
+I love experimenting with Bash scripts and have created a random password generator and various automation tools for daily tasks. I’m always eager to dive into new technologies and contribute to exciting projects!
+
+## 📜 Certifications & Achievements
+- Completed 3 months of MERN stack training.
+- Built and deployed several full-stack applications.
+- Strong background in software engineering through internships and academic projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sajakshrestha8&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks for visiting my profile! Feel free to reach out or explore my repositories to see what I'm working on. Let's connect and collaborate on amazing projects!
