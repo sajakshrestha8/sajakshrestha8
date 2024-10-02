@@ -5,7 +5,7 @@
 A MERN stack developer!!
 </div>
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 
 ## Frontend
@@ -20,7 +20,7 @@ A MERN stack developer!!
 
 </div>
 
-### Backend
+## Backend
 <div align="center">
   
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -34,7 +34,7 @@ A MERN stack developer!!
 
 
   
-### Other Tools
+## Other Tools
 <div align="center">
   
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
