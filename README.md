@@ -2,7 +2,7 @@
 
 # Hi, I'm Sajak Shrestha 👋
 
-I'm a passionate software developer and a MERN stack enthusiast currently studying in my 7th semester at KCC College. With hands-on experience in full-stack development, I enjoy building web applications that solve real-world problems. Here's a little about me and what I love working on!
+A MERN stack developer!!
 </div>
 
 ## 🔧 Technologies & Tools
