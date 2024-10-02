@@ -32,9 +32,6 @@ I'm a passionate software developer and a MERN stack enthusiast currently studyi
 ### 🔐 OTP Verification System
 A React-based OTP verification system with manual and clipboard input support. Developed with an Express.js backend to handle user verification.
 
-### 🛒 Grocery Management System
-A Python Flask project that handles product management, customer transactions, and employee records. Integrated Apriori algorithm for product recommendation and sales analysis.
-
 ### 💧 Real-Time Water Level Monitoring System
 A Node.js backend with a React frontend that logs and monitors real-time water levels through SMS alerts.
 
