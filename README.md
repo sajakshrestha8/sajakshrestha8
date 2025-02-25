@@ -45,22 +45,6 @@ A MERN stack developer!!
 
 </div>
 
-## 🚀 Current Projects
-
-### 🔐 OTP Verification System
-A React-based OTP verification system with manual and clipboard input support. Developed with an Express.js backend to handle user verification.
-
-### 💧 Real-Time Water Level Monitoring System
-A Node.js backend with a React frontend that logs and monitors real-time water levels through SMS alerts.
-
-### 📊 Grocery Market Analysis
-Analyzed customer buying patterns using association rules and visualized sales data using Python Flask.
-
-## 🌱 Currently Learning
-- **TypeScript**: Strengthening my Next.js projects
-- **Advanced MERN Stack**: Diving deeper into MongoDB and advanced backend development
-- **DevOps**: Exploring CI/CD pipelines for smoother deployment
-
 ## 📫 Connect with me
 <div align="center">
   
