@@ -58,7 +58,7 @@ A MERN stack developer!!
 ## 📜 Certifications & Achievements
 - Completed 3 months of MERN stack training.
 - Built and deployed several full-stack applications.
-- Strong background in software engineering through internships and academic projects.
+- Strong background in software engineering through academic projects.
 
 ---
 
